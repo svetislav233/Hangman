@@ -1,0 +1,2 @@
+c:\users\kiril\onedrive\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Debug\Hangman.exe.config
+c:\users\kiril\onedrive\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache

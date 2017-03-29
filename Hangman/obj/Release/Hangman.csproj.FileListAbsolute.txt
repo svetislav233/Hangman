@@ -1,0 +1,5 @@
+c:\users\kiril\onedrive\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Release\Hangman.exe.config
+c:\users\kiril\onedrive\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Release\Hangman.exe
+c:\users\kiril\onedrive\documents\visual studio 2015\Projects\Hangman\Hangman\bin\Release\Hangman.pdb
+c:\users\kiril\onedrive\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Release\Hangman.exe
+c:\users\kiril\onedrive\documents\visual studio 2015\Projects\Hangman\Hangman\obj\Release\Hangman.pdb
